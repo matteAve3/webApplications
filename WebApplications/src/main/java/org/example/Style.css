@@ -1,0 +1,43 @@
+.top-menu{background-color: cornflowerblue}
+
+h1,h2,h5{font-family: Candara,sans-serif; font-weight:bold}
+
+.custom-card {
+    background-color: lightgrey !important;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    background: lightgrey;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    background-color: floralwhite !important;
+}
+
+footer {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: cornflowerblue !important;
+}
+.btn-primary:hover {
+    background-color: royalblue !important;
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
